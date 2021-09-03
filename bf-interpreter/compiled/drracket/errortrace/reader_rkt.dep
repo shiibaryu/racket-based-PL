@@ -1,0 +1,1 @@
+("8.2" tarm64osx ("97a8e01deaac194096dcac5a9e2d13a71822b002" . "d456b6a37dedbeec84472b8ac753d73de3513686") #"/Users/siiba/Desktop/racket-based-PL/bf-interpreter/parser-gen.rkt" (collects #"br" #"quicklang.rkt") (collects #"brag" #"support.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.2" tarm64osx ("2295c28bf511a9f5030b4a226a54621b60bdf3d5" . "e76b387ef72199f699abe004c419a69ff0320f49") (collects #"brag" #"codegen" #"expander.rkt") (collects #"brag" #"main.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"runtime-config.rkt"))
